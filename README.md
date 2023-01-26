@@ -31,7 +31,7 @@ Participants are divided into small groups to discuss and produce a small list o
 ### Sequence and time allocation
 
 1. Quick introduction to the session and agenda (2 min)
-1a. Check people's level of Kotlin expertise.
+1. Check people's level of Kotlin expertise.
 2. Introduce the Kotlin features. Check everyone understands them. See if anyone wants to add anything. (3 min)
 3. Form groups and invite them to discuss the list of Kotlin features and pick the smallest set of features they'd accept in the language. (10+ min)
 4. Each group presents their list and any insights from their discussion (2 min per group)
