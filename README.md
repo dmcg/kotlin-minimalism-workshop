@@ -31,6 +31,10 @@ Participants are divided into small groups to discuss and produce a small list o
 ### Sequence and time allocation
 
 1. Quick introduction to the session and agenda (2 min)
-2. Form groups and invite them to discuss the list of Kotlin features and pick the smallest set of features they'd accept in the language. (10+ min)
-3. Each group presents their list and any insights from their discussion (2 min per group)
-4. Attendees are invited to look at the final list and share if any ideas stand out (5 minutes)
+2. Introduce the Kotlin features. Check everyone understands them. See if anyone wants to add anything. (3 min)
+3. Form groups and invite them to discuss the list of Kotlin features and pick the smallest set of features they'd accept in the language. (10+ min)
+4. Each group presents their list and any insights from their discussion (2 min per group)
+5. Attendees are invited to look at the final list and share if any ideas stand out (5 minutes)
+6. Return to groups and discuss the direction that the language is going in. Is is getting better or worse? Where should it head? (10+ min)
+7. Each group presents their list and any insights from their discussion (2 min per group)
+8. Bring it all to conclusion (5 minutes)
